@@ -4,10 +4,10 @@ A pre-compiled, ready-to-use version of Nginx for Windows.
 # Components Included
 This build includes the following components:
 
-Nginx 1.30.7
-OpenSSL 4.1.0
-PCRE2 10.49
-zlib 1.4
+- Nginx 1.30.7
+- OpenSSL 4.1.0
+- PCRE2 10.49
+- zlib 1.4
 
 ## Configuration 
 
